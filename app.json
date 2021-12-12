@@ -32,7 +32,7 @@
       "generator": "secret"
     }
   },
-  "stack": "heroku-16",
+  "stack": "heroku-20",
   "buildpacks": [
     {
       "url": "https://github.com/FabrizioBrancati/heroku-buildpack.git"
